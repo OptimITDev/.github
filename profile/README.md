@@ -16,6 +16,7 @@ Som partner certificat del **Grup AHORA** i de **Flexygo**.
 ## ⚙️ Què oferim
 
 - 🧮 Implantació i personalització d'ERP (AHORA 5, AHORA One)
+- 🫂 HumanIA: plataforma 360 de recuros humans.
 - 🧩 Aplicacions de negoci *low-code* amb la plataforma Flexygo
 - 🔄 Integracions entre ERP, CRM i sistemes de tercers
 - 📊 Informes, quadres de comandament i automatització de processos
